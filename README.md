@@ -1,5 +1,4 @@
 # Epita_AIS
-This repo contains notes and assignments of AIS 
 
 Hi, there!
 
@@ -8,4 +7,5 @@ This repo contains part of the courses of AIS, a master program of EPITA. I am s
 - No relative files saved
 - ...
 
+It is welcomed for anyone who wants to find some useful information about the program.
 Hope you can find something in need.
