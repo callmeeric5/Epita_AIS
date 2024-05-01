@@ -1,0 +1,122 @@
+[
+    {
+    "item_id": "1",
+    "item_name": "Margherita Pizza",
+    "category": "Pizza",
+    "description": "Classic pizza with tomato, mozzarella, and basil",
+    "price": 12.99,
+    "spiciness_level": "Mild",
+    "vegetarian": true,
+    "gluten_free": false,
+    "ingredients": ["Tomato Sauce", "Mozzarella Cheese", "Fresh Basil"],
+    "available": true
+    },
+    {
+    "item_id": "2",
+    "item_name": "Chicken Alfredo",
+    "category": "Pasta",
+    "description": "Creamy Alfredo pasta with grilled chicken",
+    "price": 15.99,
+    "spiciness_level": "Mild",
+    "vegetarian": false,
+    "gluten_free": false,
+    "ingredients": ["Fettuccine Pasta", "Alfredo Sauce", "Grilled Chicken"],
+    "available": true
+    },
+    {
+    "item_id": "3",
+    "item_name": "Caesar Salad",
+    "category": "Salad",
+    "description": "Fresh romaine lettuce with Caesar dressing and croutons",
+    "price": 8.99,
+    "spiciness_level": "Mild",
+    "vegetarian": true,
+    "gluten_free": false,
+    "ingredients": ["Romaine Lettuce", "Caesar Dressing", "Croutons"],
+    "available": true
+    },
+    {
+    "item_id": "4",
+    "item_name": "Grilled Salmon",
+    "category": "Seafood",
+    "description": "Grilled salmon fillet with lemon and herbs",
+    "price": 17.99,
+    "spiciness_level": "Mild",
+    "vegetarian": false,
+    "gluten_free": true,
+    "ingredients": ["Salmon Fillet", "Lemon", "Herbs"],
+    "available": true
+    },
+    {
+    "item_id": "5",
+    "item_name": "Vegetable Stir-Fry",
+    "category": "Vegetarian",
+    "description": "Assorted vegetables stir-fried in a savory sauce",
+    "price": 11.99,
+    "spiciness_level": "Medium",
+    "vegetarian": true,
+    "gluten_free": true,
+    "ingredients": ["Assorted Vegetables", "Stir-Fry Sauce"],
+    "available": true
+    },
+    {
+    "item_id": "6",
+    "item_name": "Hamburger",
+    "category": "Burger",
+    "description": "Classic hamburger with lettuce, tomato, and cheese",
+    "price": 9.99,
+    "spiciness_level": "Mild",
+    "vegetarian": false,
+    "gluten_free": false,
+    "ingredients": ["Beef Patty", "Lettuce", "Tomato", "Cheese"],
+    "available": true
+    },
+    {
+    "item_id": "7",
+    "item_name": "Chocolate Brownie",
+    "category": "Dessert",
+    "description": "Warm chocolate brownie with vanilla ice cream",
+    "price": 6.99,
+    "spiciness_level": "Mild",
+    "vegetarian": true,
+    "gluten_free": false,
+    "ingredients": ["Chocolate Brownie", "Vanilla Ice Cream"],
+    "available": true
+    },
+    {
+    "item_id": "8",
+    "item_name": "Mango Smoothie",
+    "category": "Beverage",
+    "description": "Refreshing mango smoothie",
+    "price": 4.99,
+    "spiciness_level": "Non-Spicy",
+    "vegetarian": true,
+    "gluten_free": true,
+    "ingredients": ["Mango", "Yogurt", "Honey"],
+    "available": true
+    },
+    {
+    "item_id": "9",
+    "item_name": "Chicken Tenders",
+    "category": "Appetizer",
+    "description": "Crispy chicken tenders with dipping sauce",
+    "price": 8.99,
+    "spiciness_level": "Mild",
+    "vegetarian": false,
+    "gluten_free": false,
+    "ingredients": ["Chicken Tenders", "Dipping Sauce"],
+    "available": true
+    },
+    {
+    "item_id": "10",
+    "item_name": "Sushi Combo",
+    "category": "Sushi",
+    "description": "Assorted sushi rolls with wasabi and soy sauce",
+    "price": 18.99,
+    "spiciness_level": "Non-Spicy",
+    "vegetarian": false,
+    "gluten_free": false,
+    "ingredients": ["Assorted Sushi Rolls", "Wasabi", "Soy Sauce"],
+    "available": true
+    }
+]
