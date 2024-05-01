@@ -1,5 +1,5 @@
 # Epita_AIS
-This repo is for notes or assignments for EPITA Master of AIS 
+This repo contains notes and assignments of AIS 
 
 Hi, there!
 
