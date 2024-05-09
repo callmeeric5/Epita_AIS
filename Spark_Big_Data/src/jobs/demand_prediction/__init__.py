@@ -1,0 +1,2 @@
+from jobs.demand_prediction.main import analyze
+from jobs.demand_prediction.demand_prediction import demand_prediction

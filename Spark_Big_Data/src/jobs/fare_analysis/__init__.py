@@ -1,0 +1,3 @@
+from jobs.fare_analysis.main import analyze
+from jobs.fare_analysis.fare_passenger import analyze_fare_passenger
+from jobs.fare_analysis.fare_location import analyze_fare_location

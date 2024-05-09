@@ -1,0 +1,2 @@
+from jobs.traffic_analysis.main import analyze
+from jobs.traffic_analysis.trip_speed import analyze_trip_speed
