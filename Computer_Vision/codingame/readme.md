@@ -59,3 +59,42 @@ for i in range(h):
 for i in range(h):
     print(''.join(output[i]))
 ```
+
+### Sudoku Validator
+![](https://cdn.jsdelivr.net/gh/callmeeric5/imageHost/img/Sudoku_Validator.jpg)
+```python
+import sys
+import math
+def check_grid(grid):
+    def is_valid_group(group):
+        return sorted(group) == list(range(1, 10))
+    
+    for row in grid:
+        if not is_valid_group(row):
+            return False
+    
+    for col in range(9):
+        column = [grid[row][col] for row in range(9)]
+        if not is_valid_group(column):
+            return False
+    
+    for x in range(0, 9, 3):
+        for y in range(0, 9, 3):
+            sub_grid = []
+            for i in range(3):
+                for j in range(3):
+                    sub_grid.append(grid[x + i][y + j])
+            if not is_valid_group(sub_grid):
+                return False
+
+    return True
+
+grid = []
+for i in range(9):
+    grid.append(list(map(int, input().split())))
+
+if check_grid(grid):
+    print("true")
+else:
+    print("false")
+```
