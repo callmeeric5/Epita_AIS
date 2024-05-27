@@ -28,3 +28,34 @@ for i in range(len(lst) - 1):
 
 print("true" if good else "false")
 ```
+## Reverse minesweeper
+![](https://cdn.jsdelivr.net/gh/callmeeric5/imageHost/img/Reverse_minesweeper.jpg)
+
+```python
+import sys
+import math
+
+w = int(input())
+h = int(input())
+board = ['.'*(w+2)]
+for i in range(h):
+    board.append('.' + input() + '.')
+board.append('.'*(w+2))
+
+output = [['.']*w for i in range(h)]
+
+for i in range(h):
+    for j in range(w):
+        s = 0
+        if(board[i+1][j+1] != 'x'):
+            for k in range(3):
+                for l in range(3):
+                    if(board[i+k][j+l] == 'x'):
+                        s += 1
+        if(s > 0):
+            output[i][j] = str(s)
+# Write an answer using print
+# To debug: print("Debug messages...", file=sys.stderr, flush=True)
+for i in range(h):
+    print(''.join(output[i]))
+```
