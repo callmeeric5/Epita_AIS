@@ -1,1 +1,2 @@
-[Repo here for details](https://github.com/callmeeric5/DSP_Final)
+[Project: BlackFridayPrediction](https://github.com/callmeeric5/DSP_Final)
+[Assignment: HousePricePrediction](https://github.com/callmeeric5/dsp-zihang-wang)
