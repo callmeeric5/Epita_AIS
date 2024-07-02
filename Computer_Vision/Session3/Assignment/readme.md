@@ -3,7 +3,10 @@
 ## Quicklook
 This notebook is run on Kaggle P100 to detect all or specific kinds of animals in a image.
 
-The model used are:
+The dataset used is:
+[African wildlife](https://www.kaggle.com/datasets/biancaferreira/african-wildlife)
+
+The models used are:
 * YOLO v5n
 * YOLO V8m
 
