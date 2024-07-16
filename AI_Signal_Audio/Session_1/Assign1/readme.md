@@ -15,7 +15,7 @@ The filter used here is bandpass. It will remain the audio between the lowcut an
 The different order of filters shows a different steepness of the curve around the cutoff frequencies, as the following graphs:
 
 * order = 3
-
+![](AI_Signal_Audio/Session_1/Assign1/img/bf_3.png)
   
 * order = 5
 * order = 7
