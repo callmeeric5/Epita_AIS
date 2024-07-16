@@ -44,7 +44,7 @@ The different order of filters shows a different steepness of the curve around t
   
 * order = 7
 
- ![](./img/bsf_7.png)
+ ![](./img/bdf_7.png)
  ![](./img/app_bsf_7.png)
 
 
