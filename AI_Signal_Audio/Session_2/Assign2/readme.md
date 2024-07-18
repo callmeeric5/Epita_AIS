@@ -55,11 +55,14 @@ The objective of this assignment is to develop and evaluate different machine le
  [ 0  0  2  4  1  2  2  0  1  9]]
  ```
 
-* Classification Report: 
+* Classification Report:
+
 ![alt text](img/cf2.png)
 
 * Feature Importance
+  
 ![alt text](img/fi1.png)
+
 ### SVM
 * Confusion Matrix: 
 ```
@@ -75,7 +78,8 @@ The objective of this assignment is to develop and evaluate different machine le
  [ 2  0  3  1  2  0  1  0  2 10]]
 ```
 
-* Classification Report: 
+* Classification Report:
+  
 ![alt text](img/cf3.png)
 
 ### Gradient Boosting
@@ -93,10 +97,12 @@ The objective of this assignment is to develop and evaluate different machine le
  [ 1  0  1  3  3  0  0  1 13  1]
  [ 2  0  5  3  1  0  0  0  2  8]]
 ```
-* Classification Report: 
+* Classification Report:
+  
 ![alt text](img/cf4.png)
 
 * Feature Importance
+  
 ![alt text](img/fi2.png)
 
 ### ⭐️MLP⭐️
@@ -114,7 +120,8 @@ The objective of this assignment is to develop and evaluate different machine le
  [ 1  0  1  2  1  1  0  1  2 12]]
 ```
 
-* Classification Report: 
+* Classification Report:
+  
 ![alt text](img/cf5.png)
 
 ## Conclusion
