@@ -57,6 +57,5 @@ This obversions are reasonable, because high orders are better at preserving the
 ## Discussion
 
 There are some anomalies I noticed but I am not sure why it happens:
-1. The bandpass filter changes the shape of the original image, more specifaclly, it enlarges the second peak
-2. Both filters didn't play their roles well. For the bandpass, it still keeps the area (F > 8000) and for the bandstop, it still keeps the are (2000<F<8000)
-3. According the final audios filtered by different orders, I didn't see any difference and the filtering doesn't extract neither the bird nor plane sound cleanly. Noise still remains.
+1. Both filters didn't play their roles well. For the bandpass, it still keeps the area (F > 8000) and for the bandstop, it still keeps the are (2000<F<8000)
+2. According the final audios filtered by different orders, I didn't see any difference and the filtering doesn't extract neither the bird nor plane sound cleanly. Noise still remains.
