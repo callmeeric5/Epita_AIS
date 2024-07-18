@@ -126,6 +126,8 @@ The objective of this assignment is to develop and evaluate different machine le
 
 ## Conclusion
 
+![alt text](img/acc.png)
+
 The MLP is the best model no matter on accuracy, precision, recall or f1. However, none of them satisfies me. I think the reason it doesn't preform well could be:
 
 1. The dataset is small, the benefits of ensembling might be limited.
